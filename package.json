@@ -4,8 +4,8 @@
   "type": "module",
   "main": "server.js",
   "scripts": {
-    "dev": "node server.js",
-    "start": "node server.js"
+    "dev": "node server/server.js",
+    "start": "node server/server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
